@@ -6,6 +6,7 @@ package-lock.json
 */**/.tern-port
 .DS_Store
 .hugo_build*
+.idea
 
 # Link checker artifacts
 bin/
